@@ -315,7 +315,7 @@ body{
 background:#fff url(image/back02.gif) fixed no-repeat 100% 100%
 }
 #page{
-background:#fff url(image/back01.gif) repeat
+background:#fff url(image/back01.gif) repeat-y
 }
 #wrapper{
 position:relative;
