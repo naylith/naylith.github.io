@@ -38,7 +38,7 @@ text-decoration:none
 インラインフレーム外設定
 --------------------------------------------------------*/
 #page{
-background:#fff url(image/back01.gif);
+background:#fff url(image/back01.gif) repeat-y;
 color:#57450f;
 padding:10px;
 text-align:center;
@@ -315,7 +315,7 @@ body{
 background:#fff url(image/back02.gif) fixed no-repeat 100% 100%
 }
 #page{
-background:#fff url(image/back01.gif) repeat-y
+background:#fff url(image/back01.gif) repeat
 }
 #wrapper{
 position:relative;
